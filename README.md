@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/21626368/README.md)
 <h1 align="center">Hi 👋, I'm Vignesh Jagadeesan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
