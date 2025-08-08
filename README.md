@@ -64,7 +64,7 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jvignesh148&show_icons=true&locale=en&theme=dark" alt="jvignesh148" />
 </p>
-
+<br/>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jvignesh148&theme=dark" alt="jvignesh148" />
 </p>
