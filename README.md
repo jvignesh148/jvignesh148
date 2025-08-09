@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vignesh Jagadeesan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jvignesh148&label=Profile%20views&color=lightgrey&style=flat&label_color=gray" alt="jvignesh148" />
