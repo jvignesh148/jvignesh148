@@ -31,7 +31,7 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvignesh148&layout=compact&theme=dark" alt="jvignesh148" />
 </p>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jvignesh148&theme=dark" alt="jvignesh148" />
 </p>
