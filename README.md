@@ -17,12 +17,6 @@
   </a>
 </p>
 
-<h3 align="left">Fun Project:</h3>
-<p>🐍 Check out my Snake Game project! You can play it directly or check the code on my repository.</p>
-<a href="https://github.com/jvignesh148/snake-game" target="_blank">
-  <img src="https://img.shields.io/badge/Snake%20Game-Play%20Now-brightgreen" alt="Snake Game"/>
-</a>
-
 <h3 align="left">GitHub Stats:</h3>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jvignesh148&show_icons=true&locale=en&theme=dark" alt="jvignesh148" />
@@ -34,4 +28,12 @@
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jvignesh148&theme=dark" alt="jvignesh148" />
+</p>
+
+<h3 align="left">Fun Project: Snake Game 🐍</h3>
+<p>Play the Snake Game below (in place of the usual streak):</p>
+<p align="center">
+  <a href="https://github.com/jvignesh148/snake-game" target="_blank">
+    <img src="https://raw.githubusercontent.com/jvignesh148/snake-game/main/snake-game.gif" alt="Snake Game" width="600"/>
+  </a>
 </p>
