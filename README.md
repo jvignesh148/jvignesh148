@@ -58,7 +58,6 @@ Passionate SDET with a full stack background, focused on building robust test fr
 <div align="center">
   <img src="https://raw.githubusercontent.com/jvignesh148/jvignesh148/main/github-stats.svg" />
 </div>
----
 
 ## Contribution Snake
 
