@@ -2,7 +2,7 @@
 
 # Vignesh Jagadeesan
 
-**Full Stack Developer** · Chennai, India
+**Software Development Engineer in Test (SDET)** · Chennai, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-j-4b993226a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/cal_vignesh_j)
@@ -15,7 +15,7 @@
 
 ## About Me
 
-Passionate full stack developer who enjoys building clean, scalable web applications from front to back. I care about thoughtful architecture, readable code, and shipping products that work well.
+Passionate SDET with a full stack background, focused on building robust test frameworks and ensuring software quality at every layer. I bridge the gap between development and testing — writing clean code, designing automation strategies, and shipping products that actually work.
 
 - 💼 Open to collaboration and exciting projects
 - 📬 Reach me at **jvignesh148@gmail.com**
@@ -56,12 +56,27 @@ Passionate full stack developer who enjoys building clean, scalable web applicat
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jvignesh148&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvignesh148&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jvignesh148&show_icons=true&theme=dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvignesh148&layout=compact&theme=dark&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvignesh148&theme=github-dark-blue&hide_border=true" height="160" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jvignesh148&theme=dark&hide_border=true" height="170" alt="GitHub Streak" />
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jvignesh148/jvignesh148/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jvignesh148/jvignesh148/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/jvignesh148/jvignesh148/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
