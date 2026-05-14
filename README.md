@@ -56,15 +56,7 @@ Passionate SDET with a full stack background, focused on building robust test fr
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jvignesh148&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jvignesh148&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jvignesh148&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://raw.githubusercontent.com/jvignesh148/jvignesh148/main/github-stats.svg" />
 </div>
 ---
 
